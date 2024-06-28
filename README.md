@@ -12,7 +12,7 @@
 09. <a href="tg://user?id=6211822851">6211822851</a> | @beianer
 10. <a href="tg://user?id=6904951544">6904951544</a> | -
 11. <a href="tg://user?id=6513737265">6513737265</a> | - | <code>空虚职业诈骗犯</code>
-11. <a href="tg://user?id=6479113439">6479113439</a> | @lvdicheng  | <code>空虚职业诈骗犯1元机场 已被证实</code>
+11. <a href="tg://user?id=6479113439">6479113439</a> | @lvdicheng |@baitufaka  | <code>空虚职业诈骗犯1元机场 已被证实</code>
 11. <a href="tg://user?id=6513737265">6513737265</a> | @baitufaka   | <code>空虚职业诈骗犯1元机场 已被证实</code>
 12. <a href="tg://user?id=7125817040">7125817040</a> | - | <code>代搭建诈骗犯</code>
 13. <a href="tg://user?id=6499261141">6499261141</a> | -
@@ -37,4 +37,5 @@
 31. <a href="tg://user?id=6011674746">6011674746</a> | @DY700800 | <code>提供虚假卡密，无法使用，联系不上上被骗330 |骗子发卡站tgpf点org</code>
 32. <a href="tg://user?id=7060854539">7060854539</a> | @Linbeisos | <code>跑路140u  已被证实</code>
 33. <a href="tg://user?id=7032700466">7032700466</a> | @yacai8186 | <code>跑路500  已被证实</code>
-34. <a href="tg://user?id=6498506395">6498506395</a> | @apdsn  | <code>职业诈骗犯  已被证实</code>
+34. <a href="tg://user?id=6498506395">6498506395</a> | @apdsn   @rentoun  @rentoux  @rentou123 @SaSiovc  | <code>职业诈骗犯  已被证实</code>
+35. <a href="tg://user?id=7162153230">7162153230</a> | @ojbc888   | <code>跑路120U 职业诈骗犯  已被证实</code>
